@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".utils.network.CardPayment">
+
+    <!--on below line we are creating a pay view-->
+    <com.manojbhadane.PaymentCardView
+        android:id="@+id/creditCard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cv_cardTitle="Pay Now"
+        app:cv_submitBtnText="Add Card" />
+
+</RelativeLayout>

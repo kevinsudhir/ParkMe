@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/background.xml" value="0.2475" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/background_splash.xml" value="0.2475" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/btn_purple_a400.xml" value="0.185" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/btn_rounded_white.xml" value="0.185" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/button_background.xml" value="0.185" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/edit_text_round_bg_outline.xml" value="0.185" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_2wheeler.xml" value="0.218" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_3wheeler.xml" value="0.218" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_4wheeler.xml" value="0.218" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_baseline_account_circle_24.xml" value="0.2075" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_baseline_book_24.xml" value="0.2075" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_baseline_calendar_today_24.xml" value="0.2075" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_baseline_dashboard_24.xml" value="0.2075" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_baseline_delete_24.xml" value="0.2075" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_baseline_edit_24.xml" value="0.2075" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_baseline_history_24.xml" value="0.283" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_baseline_image_search_24.xml" value="0.185" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_baseline_payment_24.xml" value="0.185" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_parking_checkout.xml" value="0.211" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_plate_number.xml" value="0.121" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_rupee_indian.xml" value="0.2795" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/ic_wrong_icon.xml" value="0.218" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/drawable-v24/tick_anim.xml" value="0.2075" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_about_me.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_add_position.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_area_history.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_book_parking_area.xml" value="0.4" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_book_subscription_parking.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_booking_details.xml" value="0.4" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_calendar_view.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_card_details.xml" value="0.3625" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_change_password.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_forgot_password.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_g_p_s_map.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_intro_screen.xml" value="0.16279069767441862" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_main_admin.xml" value="0.25" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_main_normal.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_main_owner.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_near_by_area.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_owneracc_details.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_payment_details.xml" value="0.3625" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_payment_stripe.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_personal_details.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_recover_account.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_register.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_reset_password.xml" value="0.3625" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_stepper_wizard.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_upi_details.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_user_history.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/activity_verified.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/fragment_add.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/fragment_dashboard_admin.xml" value="0.25" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/fragment_dashboard_normal.xml" value="0.264" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/fragment_dashboard_owner.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/fragment_profile.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/fragment_scan.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/include_add_plate_popup_layout.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/include_card_view_search_bar.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/include_close_location_row_layout.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/include_history_row_layout.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/include_number_plate_row_layout.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/include_place_dropdown_info.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/include_register_login_divider.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/include_slot_individual_list_view.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/include_stepper_wizard_color.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/include_verify_tick.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/parking_normal_user_widget.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/parking_owner_user_widget.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/layout/payment_stripe.xml" value="0.3625" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/menu/admin_bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/menu/nearby_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/menu/normal_bottom_nav_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/parkme/app/src/main/res/menu/owner_bottom_nav_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/kevin/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_spinner_dropdown_item.xml" value="0.2" />
+        <entry key="..\:/Users/kevin/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_spinner_item.xml" value="0.18541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
