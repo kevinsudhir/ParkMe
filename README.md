@@ -1,5 +1,8 @@
 # “ParkMe”: Android based On-Street and Off-Street Parking Availability Prediction and Space Reservation model
 
+**Abstract:**
+The developed system is comprised of an IoT hardware model that provides real-time parking slot availability. In addition, an android application was designed to search for and book the nearest available parking slot using the data from the IoT model. This application also allows users to host their parking spaces as owners. Stripe payment API was integrated and an IoT model was constructed to present the demo.
+
 **Initial Activites:**
 
 ![Initial_Pages](https://user-images.githubusercontent.com/26058164/215012509-fb353c01-a5d0-4140-8833-a900c45c9c7a.jpg)
